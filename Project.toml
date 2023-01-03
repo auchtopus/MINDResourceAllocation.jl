@@ -1,0 +1,14 @@
+name = "MINDResourceAllocation"
+uuid = "cd05c4b3-960e-435e-a4b5-31309b956b8c"
+authors = ["Anthony Jiang <anthony.jiang@yale.edu>"]
+version = "0.1.0"
+
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+MUMPS_seq_jll = "d7ed1dd3-d0ae-5e8e-bfb4-87a502085b8d"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+SigmoidalProgramming = "ce2a0656-6bed-5c64-9e01-e7b1ac833b80"
+
+[compat]
+MUMPS_seq_jll = "5"
